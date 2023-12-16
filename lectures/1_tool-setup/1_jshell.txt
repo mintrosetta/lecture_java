@@ -9,5 +9,7 @@
             - ดู command พร้อมคำอธิบาย
         > /list -all
             - ดู code ที่เราพิมพ์ไว้
-        > /exit - /ex
+        > /exit || /ex
             - ออกจาก jshell
+        > /var 
+            - แสดงรายการของ variable
