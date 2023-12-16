@@ -1,0 +1,38 @@
+
+    :: Primitive Types
+    เป็น data type พื้นฐานของภาษา Java
+
+    :: เลขจำนวนเต็ม
+        > byte
+        > short
+        > int
+        > long
+
+    :: เลขมีทศนิยม
+        > float
+        > double
+
+    :: ตัวอักษรตัวเดียว
+        > char
+
+    :: จริงเท็จ
+        > boolean
+
+    :: Wrapper Classes
+    เป็น class ที่ใช้แทนชนิดข้อมูลดั้งเดิม (Primitive data type) เพื่อทำให้สามารถใช้คุณสมบัติและเมทอดต่าง ๆ
+    ที่เป็นของ object มาจัดการกับชนิดข้อมูลนั้น ๆ ได้
+    โดยแต่ละชนิดข้อมูลใน Java จะมาคู่กันกับ class wrapper ดังนี้
+    
+    Primitive Data Types    Wrapper Class
+    byte                    Byte
+    short                   Short
+    int                     Integer
+    long                    Long 
+    float                   Float
+    double                  Double
+    char                    Character
+    boolean                 Boolean
+
+    :: ถ้าหากเลขมีจำนวนหลักเยอะ สามารถเติมแบบนี้ได้
+        - 2,000,000
+        _ 2_000_000
