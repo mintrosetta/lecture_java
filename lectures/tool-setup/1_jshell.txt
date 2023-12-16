@@ -1,0 +1,13 @@
+
+    :: JShell
+    เป็นเครื่องมือที่ใช้ในการเขียนคำสั่ง Java บน Command Line
+
+    :: Command 
+        > jshell
+            - เรียกใช้ jshell 
+        > /help
+            - ดู command พร้อมคำอธิบาย
+        > /list all
+            - ดู code ที่เราพิมพ์ไว้
+        > /exit
+            - ออกจาก jshell
