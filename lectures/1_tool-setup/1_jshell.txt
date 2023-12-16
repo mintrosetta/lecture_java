@@ -7,7 +7,7 @@
             - เรียกใช้ jshell 
         > /help
             - ดู command พร้อมคำอธิบาย
-        > /list all
+        > /list -all
             - ดู code ที่เราพิมพ์ไว้
-        > /exit
+        > /exit - /ex
             - ออกจาก jshell
