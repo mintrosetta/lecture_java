@@ -5,11 +5,16 @@
     :: เลขจำนวนเต็ม
         > byte
             - Int value range (-128 to 127)
+            - 8 bits
         > short
             - Int value range (-32768 to 32767)
+            - 16 bits
         > int
             - Int value range (-2147483648 to 2147483647)
+            - 32 bits
         > long
+            - เลข 100 ในภาษา Java เป็น int
+            - ถ้าต้องการให้ 100 เป็น long ต้องเติม "L" ต่อท้ายด้วย เช่น 100l
 
     :: เลขมีทศนิยม
         > float
