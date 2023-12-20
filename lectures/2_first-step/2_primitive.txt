@@ -4,8 +4,11 @@
 
     :: เลขจำนวนเต็ม
         > byte
+            - Int value range (-128 to 127)
         > short
+            - Int value range (-32768 to 32767)
         > int
+            - Int value range (-2147483648 to 2147483647)
         > long
 
     :: เลขมีทศนิยม
