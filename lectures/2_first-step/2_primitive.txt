@@ -29,9 +29,18 @@
 
     :: ตัวอักษรตัวเดียว
         > char
+            - เก็บแค่ 1 ตัวอักษร 
+            - ใช้ single quates เช่น 'A'
 
     :: จริงเท็จ
         > boolean
+            - เก็บค่าจริง เท็จ
+            - ตัวอย่างการตั้งชื่อของ boolean variable
+                - isCustomerOverTwentyOne
+                - isEligibleForDiscount
+                - hasValidLicense
+                - isMarried
+                - hasChildren
 
     :: Wrapper Classes
     เป็น class ที่ใช้แทนชนิดข้อมูลดั้งเดิม (Primitive data type) เพื่อทำให้สามารถใช้คุณสมบัติและเมทอดต่าง ๆ
