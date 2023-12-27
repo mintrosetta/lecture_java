@@ -1,0 +1,7 @@
+
+    :: String
+    เป็น class ที่จัดเก็บลำดับของอักขระไว้
+
+    ** string จะไม่เปลี่ยนรูป เมื่อมีการต่อ string Java จะสร้าง string ใหม่ขึ้นมา และลบ string เก่าออกจาก memory
+    ** ถ้าต้องการต่อ string เยอะ ๆ แนะนำให้ใช้ class StringBuilder
+    ** String ไม่ใช่ primitive แต่เป็น class
