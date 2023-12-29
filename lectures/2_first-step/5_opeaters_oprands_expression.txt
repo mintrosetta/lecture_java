@@ -1,0 +1,16 @@
+
+    :: Operaters
+    ในภาษา Java เป็นจะใช้ดำเนินการบางอย่างกับข้อมูล แล้วส่งคืนผลลัพธ์กลับมา
+        - Arithmetic Operators  -> [+, -, *, /, %]
+        - Relational Operators  -> [==, !=, >, <, >=, <=]
+
+    :: Operands
+    ข้อมูลหรือค่าที่ถูกใช้กับ operaters เช่น
+        int a = 10;
+        int b = 10;
+        int result = a + b;
+        > a และ b คือ Operands
+        > + คือ Operaters
+
+    :: Expression
+    การผสมผสารสัญลักษณ์ต่าง ๆ เป็นจำนวนจำกัด โดยอาจเป็น จำนวน, ตัวแปร
