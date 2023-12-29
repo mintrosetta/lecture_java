@@ -1,0 +1,20 @@
+
+    :: Abbreviating Operators
+    การทำ Operators แบบย่อ
+
+    ** ภายใน {} (curly braces) จะจัดเก็บกลุ่มของคำสั่งไว้ก่อนที่จะ executing
+
+    int a = 1;
+    a = a + 1;
+    
+    สามารถย่อได้แบบนี้
+        - a++;
+        - a += 1;
+
+    :: Shorthand Operater
+        - post-fix increment operator           -> result++;
+        - post-fix decrement operator           -> result--;
+        - addition compound assignment          -> result += 5;
+        - subtraction compound assignment       -> result -= 5;
+        - multiplication compound assignment    -> result *= 5;
+        - division compound assignment          -> result /= 5;
